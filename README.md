@@ -1,2 +1,2 @@
-# markdown-images
-Markdown图片仓库
+# images
+图片仓库
